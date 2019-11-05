@@ -16,7 +16,7 @@
     "express": "^4.16.3",
     "file-loader": "^4.2.0",
     "image-webpack-loader": "^5.0.0",
-    "mongoose": "^5.1.4",
+    "mongoose": "^5.7.5",
     "morgan": "^1.9.0",
     "style-loader": "^1.0.0"
   },
